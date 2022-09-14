@@ -14,4 +14,6 @@ COPY ./api .
 RUN pip install -r requirements.txt
 COPY --from=builder-file bld/Edges.json /app
 COPY --from=builder-file bld/Nodes.json /app
+COPY --from=builder-file bld/Nodes.json /app
+
 ENTRYPOINT [ "python", "main.py" ]
