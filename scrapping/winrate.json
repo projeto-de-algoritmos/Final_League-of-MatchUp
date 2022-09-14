@@ -1,0 +1,156 @@
+[{
+	"name": "Singed",
+	"winrate": 54.82,
+    "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt766d98c27adfde28/5db06004347d1c6baa57be4f/RiotX_ChampionList_singed.jpg?quality=90&width=250"
+}, 
+{
+	"name": "Heimerdinger",
+	"winrate": 53.89,
+    "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltd30d85446d154070/5db05fc57d28b76cfe4397ef/RiotX_ChampionList_heimerdinger.jpg?quality=90&width=250"
+},
+{
+	"name": "Cassiopeia",
+	"winrate":53.75,
+    "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blte189be8189da97ea/5db05fb1bd24496c390ae4de/RiotX_ChampionList_cassiopeia.jpg?quality=90&width=250"
+
+},
+{
+	"name": "Aatrox",
+	"winrate": 53.39,
+    "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt570145160dd39dca/5db05fa8347d1c6baa57be25/RiotX_ChampionList_aatrox.jpg?quality=90&width=250"
+}, 
+{
+	"name": "Pantheon",
+	"winrate": 53.37,
+    "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt3f84c538bd36ef02/5db05ff17d28b76cfe43980d/RiotX_ChampionList_pantheon.jpg?quality=90&width=250"
+},
+{
+	"name": "Seraphine",
+	"winrate":53.32,
+    "image":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_0.jpg"
+},
+{
+	"name": "Zilean",
+	"winrate": 53.27,
+    "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blta32de59397f53325/5db060222dc72966da746720/RiotX_ChampionList_zilean.jpg?quality=90&width=250"
+}, 
+{
+	"name": "Miss Fortune",
+	"winrate": 53.00,
+    "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf36fa7fd7ecb59fb/5db05fe89481396d6bdd01b8/RiotX_ChampionList_missfortune.jpg?quality=90&width=250"
+},
+{
+	"name": "Janna",
+	"winrate":53.00,
+    "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt02bf5329f8abe45d/5db05fcedf78486c826dcd06/RiotX_ChampionList_janna.jpg?quality=90&width=250"
+},
+{
+	"name": "Swain",
+	"winrate": 52.91,
+    "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt1a64e469280b8b9f/5db060030b39e86c2f83dc25/RiotX_ChampionList_swain.jpg?quality=90&width=250"
+}, 
+{
+	"name": "Rumble",
+	"winrate": 52.78,
+    "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltd7c76610fa29d8d6/5db05ffa7d28b76cfe439813/RiotX_ChampionList_rumble.jpg?quality=90&width=250"
+},
+{	"name": "Rek'Sai",
+	"winrate": 52.66,
+    "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt4affff3ef114e99b/5db05ffb347d1c6baa57be43/RiotX_ChampionList_reksai.jpg?quality=90&width=250"
+}, 
+{
+	"name": "Sett",
+	"winrate": 52.64,
+    "image":"https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sett_0.jpg"
+},
+{
+	"name": "Taric",
+	"winrate":52.54,
+    "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt6b2d37773c3621e1/5db0600d347d1c6baa57be55/RiotX_ChampionList_taric.jpg?quality=90&width=250"
+},
+{
+	"name": "Warwick",
+	"winrate": 52.48,
+    "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt08a92f3897cfc8f5/5db0601ddc674266df3d5d5c/RiotX_ChampionList_warwick.jpg?quality=90&width=250"
+}, 
+{
+	"name": "Master Yi",
+	"winrate": 52.40,
+    "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt46e861d7e6c0ab0c/5db05fe8df78486c826dcd12/RiotX_ChampionList_masteryi.jpg?quality=90&width=250"
+},
+{
+	"name": "Fiddlesticks",
+	"winrate":52.37,
+    "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt302d7b76f5fdf7e3/602a79c908c7305a9aa62767/RiotX_ChampionList_fiddlesticks.jpg?quality=90&width=250"
+},
+{
+	"name": "Udyr",
+	"winrate": 52.37,
+    "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt8350eda62a9ed56c/5db060150b39e86c2f83dc2b/RiotX_ChampionList_udyr.jpg?quality=90&width=250"
+},
+{
+	"name": "Diana",
+	"winrate":52.31,
+    "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt56570083d2a5e20e/5db05fbc823d426762825fdf/RiotX_ChampionList_diana.jpg?quality=90&width=250"
+},
+{
+	"name": "Maokai",
+	"winrate": 52.23,
+    "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt757d0e8855d51e03/5db05fe72140ec675d68f4a1/RiotX_ChampionList_maokai.jpg?quality=90&width=250"
+}, 
+{
+	"name": "Vex",
+	"winrate": 52.22,
+    "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltad313195d6b48daa/614e702764c8007a9bdec6b2/RiotX_ChampionList_vex.jpg?quality=90&width=250"
+},
+{
+	"name": "Rell",
+	"winrate":52.17,
+    "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt0091d81986fe44c7/5fd43df38593bc52457eecc4/RiotX_ChampionList_Rell_v2.jpg?quality=90&width=250"
+},
+{
+	"name": "Shen",
+	"winrate":52.04,
+    "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltd142d174831b78e9/5db06004242f426df132f97f/RiotX_ChampionList_shen.jpg?quality=90&width=250"
+},
+{
+	"name": "Skarner",
+	"winrate": 52.01,
+    "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt842a8149ba8b7a3d/5db06003bd24496c390ae4f6/RiotX_ChampionList_skarner.jpg?quality=90&width=250"
+}, 
+{
+	"name": "Amumu",
+	"winrate": 52.00,
+    "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt40dfbe48a61c439f/5db05fa80b39e86c2f83dbf9/RiotX_ChampionList_amumu.jpg?quality=90&width=250"
+},
+{
+	"name": "Olaf",
+	"winrate":51.97,
+    "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blte922bda45062964b/5db05ff0a6470d6ab91ce5a6/RiotX_ChampionList_olaf.jpg?quality=90&width=250"
+},
+{
+	"name": "Karthus",
+	"winrate": 51.76,
+    "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt69b8fad9d1e78514/5db05fd7df78486c826dcd0c/RiotX_ChampionList_karthus.jpg?quality=90&width=250"
+}, 
+{
+	"name": "Zyra",
+	"winrate": 51.76
+},
+{
+	"name": "Anivia",
+	"winrate":51.74
+},
+{
+	"name": "Akshan",
+	"winrate": 51.72
+}, 
+{
+	"name": "Gragas",
+	"winrate": 51.64
+},
+{
+	"name": "Zac",
+	"winrate":51.59,
+    "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt9412083c2b98b9c8/5db0601d6af83b6d7032c910/RiotX_ChampionList_zac.jpg?quality=90&width=250"
+}]
