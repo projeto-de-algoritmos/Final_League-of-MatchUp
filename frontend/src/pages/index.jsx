@@ -11,6 +11,10 @@ export default function Home() {
     router.push(`/result/${num}`);
   }
 
+  const handleClick2 = () => {
+    router.push(`/top10/`);
+  }
+
   return (
     <div>
       <Header />
@@ -43,6 +47,18 @@ export default function Home() {
             borderRadius: '10px',
             fontWeight: '100',
           }}>Escolher</button>
+        </div>
+        <div style={{
+          padding: '70px'}}>
+          <button className='button' onClick={() => handleClick2()} style={{
+            width: '250px',
+            height: '60px',
+            fontSize: '25px',
+            backgroundColor: 'tomato',
+            border: 'none',
+            borderRadius: '10px',
+            fontWeight: '100',
+          }}>Top 10 Winrate</button>
         </div>
       </div>
     </div>
