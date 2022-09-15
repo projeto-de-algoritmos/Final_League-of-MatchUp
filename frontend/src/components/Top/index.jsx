@@ -1,5 +1,5 @@
 
-export function Top({ id, name, image, percentage}) {
+export function Top({ position, name, image, percentage}) {
     return (
         <div style={{
             display: 'flex',
@@ -16,7 +16,7 @@ export function Top({ id, name, image, percentage}) {
         }}>
             <h1 style={{
                 padding: '30px'
-            }}>{id}</h1>
+            }}>{position}</h1>
             <img src={image} alt={name} style={{
                 height: '100px',
                 width: '100px',
